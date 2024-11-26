@@ -1,0 +1,6 @@
+@WebCafeSmart_HostAddress = http://localhost:5273
+
+GET {{WebCafeSmart_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
